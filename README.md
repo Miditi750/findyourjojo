@@ -1,6 +1,6 @@
 # findyourjojo
 findyourjojo учебный проект GLO-ACADEMY
-Проект выполнил Я
+Проект выполнил: Я
 
 ## Используемые технологии 
  - HTML
